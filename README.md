@@ -30,7 +30,7 @@ Al final, tu programa simulará que tu personaje subió de nivel y mostrará sus
 4. Todo buen personaje necesita un nombre y una clase (Mago, Guerrero, Ninja). Como **estas cosas no cambian a mitad del juego**, usa variables inmutables (`const`) y texto (`String`):
 
 ```js
-const nombre_personaje = "Master Chief";
+const nombre_personaje = "Master Chief 🪖";
 const clase = "Soldado";
 ```
 _(¡Ponle el nombre y la clase que tú quieras!)_
