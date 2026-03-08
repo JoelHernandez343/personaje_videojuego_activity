@@ -17,6 +17,11 @@ Al final, tu programa simulará que tu personaje subió de nivel y mostrará sus
 3. Recordar la diferencia entre texto (`String`) y números (`Number`). ¡Acuérdate de las comillas!
 4. ¡Un cerebro humano funcional! 🧠
 
+## 💡 Tip Pro: ¡Usa Emojis en tus Strings!
+¡Puedes hacer que tu texto (`Strings`) sea mucho más divertido usando emojis! 🚀
+* En **Mac**, puedes abrir el teclado de emojis presionando `Ctrl + Cmd + Espacio` al mismo tiempo.
+* También puedes copiarlos y pegarlos desde páginas como [emojicopy.com](https://emojicopy.com/).
+¡Pruébalo cuando escribas el nombre o la clase de tu personaje!
 
 ## 📝 Pasos a seguir
 1. Dentro de tu carpeta dedicada a estas clases, crea una nueva carpeta llamada `practica_2_personaje_videojuego`.
