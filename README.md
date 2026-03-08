@@ -82,8 +82,8 @@ Si seguiste los pasos, tu archivo app.js se verá más o menos así:
 
 ```js
 // 1. Datos fijos (const + Strings)
-const nombre_personaje = "Gandalf";
-const clase = "Mago";
+const nombre_personaje = "Master Chief 🪖";
+const clase = "Soldado";
 
 // 2. Datos que cambian (let + Numbers)
 let nivel = 1;
