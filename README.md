@@ -14,7 +14,7 @@ Al final, tu programa simulará que tu personaje subió de nivel y mostrará sus
    ```bash
    which code # Debería mostrar algo como /usr/local/bin/code o una ruta similar
    ```
-3. Recordar la diferencia entre texto (String) y números (Number). ¡Acuérdate de las comillas!
+3. Recordar la diferencia entre texto (`String`) y números (`Number`). ¡Acuérdate de las comillas!
 4. ¡Un cerebro humano funcional! 🧠
 
 
